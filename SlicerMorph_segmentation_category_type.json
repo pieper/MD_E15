@@ -1,0 +1,3468 @@
+{
+    "SegmentationCategoryTypeContextName": "SlicerMorph category and type",
+    "@schema": "https://raw.githubusercontent.com/qiicr/dcmqi/master/doc/schemas/segment-context-schema.json#",
+    "SegmentationCodes": {
+        "Category": [
+            {
+                "CodeMeaning": "Dentition",
+                "CodingSchemeDesignator": "UBERON",
+                "showAnatomy": true,
+                "cid": "7150",
+                "CodeValue": "100022",
+                "contextGroupName": "SegmentationPropertyCategories",
+                "Type": [
+                    {
+                        "recommendedDisplayRGBValue": [
+                            0,
+                            179,
+                            92
+                        ],
+                        "CodeMeaning": "Maxillary Molar 1",
+                        "CodingSchemeDesignator": "UBERON",
+                        "3dSlicerLabel": "Maxillary Molar 1",
+                        "3dSlicerIntegerLabel": 1,
+                        "CodeValue": "100022",
+                        "contextGroupName": "CommonTissueSegmentationTypes",
+                        "paired": "Y",
+                        "Modifier": [
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    0,
+                                    179,
+                                    92
+                                ],
+                                "CodeMeaning": "Right",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "right Maxillary Molar 1",
+                                "3dSlicerIntegerLabel": 2,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205090",
+                                "CodeValue": "24028007",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "24028007"
+                            },
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    0,
+                                    179,
+                                    92
+                                ],
+                                "CodeMeaning": "Left",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "left Maxillary Molar 1",
+                                "3dSlicerIntegerLabel": 3,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205091",
+                                "CodeValue": "7771000",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "7771000"
+                            }
+                        ]
+                    },
+                    {
+                        "recommendedDisplayRGBValue": [
+                            144,
+                            16,
+                            49
+                        ],
+                        "CodeMeaning": "Maxillary Molar 2",
+                        "CodingSchemeDesignator": "UBERON",
+                        "3dSlicerLabel": "Maxillary Molar 2",
+                        "3dSlicerIntegerLabel": 4,
+                        "CodeValue": "100023",
+                        "contextGroupName": "CommonTissueSegmentationTypes",
+                        "paired": "Y",
+                        "Modifier": [
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    144,
+                                    16,
+                                    49
+                                ],
+                                "CodeMeaning": "Right",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "right Maxillary Molar 2",
+                                "3dSlicerIntegerLabel": 5,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205090",
+                                "CodeValue": "24028007",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "24028007"
+                            },
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    144,
+                                    16,
+                                    49
+                                ],
+                                "CodeMeaning": "Left",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "left Maxillary Molar 2",
+                                "3dSlicerIntegerLabel": 6,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205091",
+                                "CodeValue": "7771000",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "7771000"
+                            }
+                        ]
+                    },
+                    {
+                        "recommendedDisplayRGBValue": [
+                            255,
+                            237,
+                            76
+                        ],
+                        "CodeMeaning": "Maxillary Molar 3",
+                        "CodingSchemeDesignator": "UBERON",
+                        "3dSlicerLabel": "Maxillary Molar 3",
+                        "3dSlicerIntegerLabel": 7,
+                        "CodeValue": "100024",
+                        "contextGroupName": "CommonTissueSegmentationTypes",
+                        "paired": "Y",
+                        "Modifier": [
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    255,
+                                    237,
+                                    76
+                                ],
+                                "CodeMeaning": "Right",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "right Maxillary Molar 3",
+                                "3dSlicerIntegerLabel": 8,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205090",
+                                "CodeValue": "24028007",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "24028007"
+                            },
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    255,
+                                    237,
+                                    76
+                                ],
+                                "CodeMeaning": "Left",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "left Maxillary Molar 3",
+                                "3dSlicerIntegerLabel": 9,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205091",
+                                "CodeValue": "7771000",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "7771000"
+                            }
+                        ]
+                    },
+                    {
+                        "recommendedDisplayRGBValue": [
+                            50,
+                            25,
+                            91
+                        ],
+                        "CodeMeaning": "Maxillary Molar 4",
+                        "CodingSchemeDesignator": "UBERON",
+                        "3dSlicerLabel": "Maxillary Molar 4",
+                        "3dSlicerIntegerLabel": 10,
+                        "CodeValue": "100025",
+                        "contextGroupName": "CommonTissueSegmentationTypes",
+                        "paired": "Y",
+                        "Modifier": [
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    50,
+                                    25,
+                                    91
+                                ],
+                                "CodeMeaning": "Right",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "right Maxillary Molar 4",
+                                "3dSlicerIntegerLabel": 11,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205090",
+                                "CodeValue": "24028007",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "24028007"
+                            },
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    50,
+                                    25,
+                                    91
+                                ],
+                                "CodeMeaning": "Left",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "left Maxillary Molar 4",
+                                "3dSlicerIntegerLabel": 12,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205091",
+                                "CodeValue": "7771000",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "7771000"
+                            }
+                        ]
+                    },
+                    {
+                        "recommendedDisplayRGBValue": [
+                            78,
+                            91,
+                            207
+                        ],
+                        "CodeMeaning": "Mandibular Molar M1",
+                        "CodingSchemeDesignator": "UBERON",
+                        "3dSlicerLabel": "Mandibular Molar M1",
+                        "3dSlicerIntegerLabel": 13,
+                        "CodeValue": "100026",
+                        "contextGroupName": "CommonTissueSegmentationTypes",
+                        "paired": "Y",
+                        "Modifier": [
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    78,
+                                    91,
+                                    207
+                                ],
+                                "CodeMeaning": "Right",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "right Mandibular Molar M1",
+                                "3dSlicerIntegerLabel": 14,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205090",
+                                "CodeValue": "24028007",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "24028007"
+                            },
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    78,
+                                    91,
+                                    207
+                                ],
+                                "CodeMeaning": "Left",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "left Mandibular Molar M1",
+                                "3dSlicerIntegerLabel": 15,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205091",
+                                "CodeValue": "7771000",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "7771000"
+                            }
+                        ]
+                    },
+                    {
+                        "recommendedDisplayRGBValue": [
+                            217,
+                            131,
+                            33
+                        ],
+                        "CodeMeaning": "Mandibular Molar M2",
+                        "CodingSchemeDesignator": "UBERON",
+                        "3dSlicerLabel": "Mandibular Molar M2",
+                        "3dSlicerIntegerLabel": 16,
+                        "CodeValue": "100027",
+                        "contextGroupName": "CommonTissueSegmentationTypes",
+                        "paired": "Y",
+                        "Modifier": [
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    217,
+                                    131,
+                                    33
+                                ],
+                                "CodeMeaning": "Right",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "right Mandibular Molar M2",
+                                "3dSlicerIntegerLabel": 17,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205090",
+                                "CodeValue": "24028007",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "24028007"
+                            },
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    217,
+                                    131,
+                                    33
+                                ],
+                                "CodeMeaning": "Left",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "left Mandibular Molar M2",
+                                "3dSlicerIntegerLabel": 18,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205091",
+                                "CodeValue": "7771000",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "7771000"
+                            }
+                        ]
+                    },
+                    {
+                        "recommendedDisplayRGBValue": [
+                            255,
+                            102,
+                            184
+                        ],
+                        "CodeMeaning": "Mandibular Molar M3",
+                        "CodingSchemeDesignator": "UBERON",
+                        "3dSlicerLabel": "Mandibular Molar M3",
+                        "3dSlicerIntegerLabel": 19,
+                        "CodeValue": "100028",
+                        "contextGroupName": "CommonTissueSegmentationTypes",
+                        "paired": "Y",
+                        "Modifier": [
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    255,
+                                    102,
+                                    184
+                                ],
+                                "CodeMeaning": "Right",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "right Mandibular Molar M3",
+                                "3dSlicerIntegerLabel": 20,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205090",
+                                "CodeValue": "24028007",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "24028007"
+                            },
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    255,
+                                    102,
+                                    184
+                                ],
+                                "CodeMeaning": "Left",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "left Mandibular Molar M3",
+                                "3dSlicerIntegerLabel": 21,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205091",
+                                "CodeValue": "7771000",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "7771000"
+                            }
+                        ]
+                    },
+                    {
+                        "recommendedDisplayRGBValue": [
+                            125,
+                            232,
+                            225
+                        ],
+                        "CodeMeaning": "Mandibular Molar M4",
+                        "CodingSchemeDesignator": "UBERON",
+                        "3dSlicerLabel": "Mandibular Molar M4",
+                        "3dSlicerIntegerLabel": 22,
+                        "CodeValue": "100029",
+                        "contextGroupName": "CommonTissueSegmentationTypes",
+                        "paired": "Y",
+                        "Modifier": [
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    125,
+                                    232,
+                                    225
+                                ],
+                                "CodeMeaning": "Right",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "right Mandibular Molar M4",
+                                "3dSlicerIntegerLabel": 23,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205090",
+                                "CodeValue": "24028007",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "24028007"
+                            },
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    125,
+                                    232,
+                                    225
+                                ],
+                                "CodeMeaning": "Left",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "left Mandibular Molar M4",
+                                "3dSlicerIntegerLabel": 24,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205091",
+                                "CodeValue": "7771000",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "7771000"
+                            }
+                        ]
+                    },
+                    {
+                        "recommendedDisplayRGBValue": [
+                            255,
+                            164,
+                            79
+                        ],
+                        "CodeMeaning": "Maxillary Canine",
+                        "CodingSchemeDesignator": "UBERON",
+                        "3dSlicerLabel": "Maxillary Canine",
+                        "3dSlicerIntegerLabel": 25,
+                        "CodeValue": "100030",
+                        "contextGroupName": "CommonTissueSegmentationTypes",
+                        "paired": "Y",
+                        "Modifier": [
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    255,
+                                    164,
+                                    79
+                                ],
+                                "CodeMeaning": "Right",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "right Maxillary Canine",
+                                "3dSlicerIntegerLabel": 26,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205090",
+                                "CodeValue": "24028007",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "24028007"
+                            },
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    255,
+                                    164,
+                                    79
+                                ],
+                                "CodeMeaning": "Left",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "left Maxillary Canine",
+                                "3dSlicerIntegerLabel": 27,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205091",
+                                "CodeValue": "7771000",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "7771000"
+                            }
+                        ]
+                    },
+                    {
+                        "recommendedDisplayRGBValue": [
+                            49,
+                            87,
+                            255
+                        ],
+                        "CodeMeaning": "Mandibular Canine",
+                        "CodingSchemeDesignator": "UBERON",
+                        "3dSlicerLabel": "Mandibular Canine",
+                        "3dSlicerIntegerLabel": 28,
+                        "CodeValue": "100031",
+                        "contextGroupName": "CommonTissueSegmentationTypes",
+                        "paired": "Y",
+                        "Modifier": [
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    49,
+                                    87,
+                                    255
+                                ],
+                                "CodeMeaning": "Right",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "right Mandibular Canine",
+                                "3dSlicerIntegerLabel": 29,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205090",
+                                "CodeValue": "24028007",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "24028007"
+                            },
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    49,
+                                    87,
+                                    255
+                                ],
+                                "CodeMeaning": "Left",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "left Mandibular Canine",
+                                "3dSlicerIntegerLabel": 30,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205091",
+                                "CodeValue": "7771000",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "7771000"
+                            }
+                        ]
+                    },
+                    {
+                        "recommendedDisplayRGBValue": [
+                            208,
+                            241,
+                            141
+                        ],
+                        "CodeMeaning": "Maxillary Premolar 1",
+                        "CodingSchemeDesignator": "UBERON",
+                        "3dSlicerLabel": "Maxillary Premolar 1",
+                        "3dSlicerIntegerLabel": 31,
+                        "CodeValue": "100032",
+                        "contextGroupName": "CommonTissueSegmentationTypes",
+                        "paired": "Y",
+                        "Modifier": [
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    208,
+                                    241,
+                                    141
+                                ],
+                                "CodeMeaning": "Right",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "right Maxillary Premolar 1",
+                                "3dSlicerIntegerLabel": 32,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205090",
+                                "CodeValue": "24028007",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "24028007"
+                            },
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    208,
+                                    241,
+                                    141
+                                ],
+                                "CodeMeaning": "Left",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "left Maxillary Premolar 1",
+                                "3dSlicerIntegerLabel": 33,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205091",
+                                "CodeValue": "7771000",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "7771000"
+                            }
+                        ]
+                    },
+                    {
+                        "recommendedDisplayRGBValue": [
+                            132,
+                            177,
+                            200
+                        ],
+                        "CodeMeaning": "Maxillary Premolar 2",
+                        "CodingSchemeDesignator": "UBERON",
+                        "3dSlicerLabel": "Maxillary Premolar 2",
+                        "3dSlicerIntegerLabel": 34,
+                        "CodeValue": "100033",
+                        "contextGroupName": "CommonTissueSegmentationTypes",
+                        "paired": "Y",
+                        "Modifier": [
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    132,
+                                    177,
+                                    200
+                                ],
+                                "CodeMeaning": "Right",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "right Maxillary Premolar 2",
+                                "3dSlicerIntegerLabel": 35,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205090",
+                                "CodeValue": "24028007",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "24028007"
+                            },
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    132,
+                                    177,
+                                    200
+                                ],
+                                "CodeMeaning": "Left",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "left Maxillary Premolar 2",
+                                "3dSlicerIntegerLabel": 36,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205091",
+                                "CodeValue": "7771000",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "7771000"
+                            }
+                        ]
+                    },
+                    {
+                        "recommendedDisplayRGBValue": [
+                            205,
+                            77,
+                            121
+                        ],
+                        "CodeMeaning": "Maxillary Premolar 3",
+                        "CodingSchemeDesignator": "UBERON",
+                        "3dSlicerLabel": "Maxillary Premolar 3",
+                        "3dSlicerIntegerLabel": 37,
+                        "CodeValue": "100034",
+                        "contextGroupName": "CommonTissueSegmentationTypes",
+                        "paired": "Y",
+                        "Modifier": [
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    205,
+                                    77,
+                                    121
+                                ],
+                                "CodeMeaning": "Right",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "right Maxillary Premolar 3",
+                                "3dSlicerIntegerLabel": 38,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205090",
+                                "CodeValue": "24028007",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "24028007"
+                            },
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    205,
+                                    77,
+                                    121
+                                ],
+                                "CodeMeaning": "Left",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "left Maxillary Premolar 3",
+                                "3dSlicerIntegerLabel": 39,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205091",
+                                "CodeValue": "7771000",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "7771000"
+                            }
+                        ]
+                    },
+                    {
+                        "recommendedDisplayRGBValue": [
+                            233,
+                            233,
+                            99
+                        ],
+                        "CodeMeaning": "Mandibular Premolar 1",
+                        "CodingSchemeDesignator": "UBERON",
+                        "3dSlicerLabel": "Mandibular Premolar 1",
+                        "3dSlicerIntegerLabel": 40,
+                        "CodeValue": "100035",
+                        "contextGroupName": "CommonTissueSegmentationTypes",
+                        "paired": "Y",
+                        "Modifier": [
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    233,
+                                    233,
+                                    99
+                                ],
+                                "CodeMeaning": "Right",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "right Mandibular Premolar 1",
+                                "3dSlicerIntegerLabel": 41,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205090",
+                                "CodeValue": "24028007",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "24028007"
+                            },
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    233,
+                                    233,
+                                    99
+                                ],
+                                "CodeMeaning": "Left",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "left Mandibular Premolar 1",
+                                "3dSlicerIntegerLabel": 42,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205091",
+                                "CodeValue": "7771000",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "7771000"
+                            }
+                        ]
+                    },
+                    {
+                        "recommendedDisplayRGBValue": [
+                            255,
+                            170,
+                            201
+                        ],
+                        "CodeMeaning": "Mandibular Premolar 2",
+                        "CodingSchemeDesignator": "UBERON",
+                        "3dSlicerLabel": "Mandibular Premolar 2",
+                        "3dSlicerIntegerLabel": 43,
+                        "CodeValue": "100036",
+                        "contextGroupName": "CommonTissueSegmentationTypes",
+                        "paired": "Y",
+                        "Modifier": [
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    255,
+                                    170,
+                                    201
+                                ],
+                                "CodeMeaning": "Right",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "right Mandibular Premolar 2",
+                                "3dSlicerIntegerLabel": 44,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205090",
+                                "CodeValue": "24028007",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "24028007"
+                            },
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    255,
+                                    170,
+                                    201
+                                ],
+                                "CodeMeaning": "Left",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "left Mandibular Premolar 2",
+                                "3dSlicerIntegerLabel": 45,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205091",
+                                "CodeValue": "7771000",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "7771000"
+                            }
+                        ]
+                    },
+                    {
+                        "recommendedDisplayRGBValue": [
+                            103,
+                            190,
+                            145
+                        ],
+                        "CodeMeaning": "Mandibular Premolar 3",
+                        "CodingSchemeDesignator": "UBERON",
+                        "3dSlicerLabel": "Mandibular Premolar 3",
+                        "3dSlicerIntegerLabel": 46,
+                        "CodeValue": "100037",
+                        "contextGroupName": "CommonTissueSegmentationTypes",
+                        "paired": "Y",
+                        "Modifier": [
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    103,
+                                    190,
+                                    145
+                                ],
+                                "CodeMeaning": "Right",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "right Mandibular Premolar 3",
+                                "3dSlicerIntegerLabel": 47,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205090",
+                                "CodeValue": "24028007",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "24028007"
+                            },
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    103,
+                                    190,
+                                    145
+                                ],
+                                "CodeMeaning": "Left",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "left Mandibular Premolar 3",
+                                "3dSlicerIntegerLabel": 48,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205091",
+                                "CodeValue": "7771000",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "7771000"
+                            }
+                        ]
+                    },
+                    {
+                        "recommendedDisplayRGBValue": [
+                            118,
+                            161,
+                            0
+                        ],
+                        "CodeMeaning": "Maxillary Incisor 1",
+                        "CodingSchemeDesignator": "UBERON",
+                        "3dSlicerLabel": "Maxillary Incisor 1",
+                        "3dSlicerIntegerLabel": 49,
+                        "CodeValue": "100038",
+                        "contextGroupName": "CommonTissueSegmentationTypes",
+                        "paired": "Y",
+                        "Modifier": [
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    118,
+                                    161,
+                                    0
+                                ],
+                                "CodeMeaning": "Right",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "right Maxillary Incisor 1",
+                                "3dSlicerIntegerLabel": 50,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205090",
+                                "CodeValue": "24028007",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "24028007"
+                            },
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    118,
+                                    161,
+                                    0
+                                ],
+                                "CodeMeaning": "Left",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "left Maxillary Incisor 1",
+                                "3dSlicerIntegerLabel": 51,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205091",
+                                "CodeValue": "7771000",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "7771000"
+                            }
+                        ]
+                    },
+                    {
+                        "recommendedDisplayRGBValue": [
+                            255,
+                            218,
+                            191
+                        ],
+                        "CodeMeaning": "Maxillary Incisor 2",
+                        "CodingSchemeDesignator": "UBERON",
+                        "3dSlicerLabel": "Maxillary Incisor 2",
+                        "3dSlicerIntegerLabel": 52,
+                        "CodeValue": "100039",
+                        "contextGroupName": "CommonTissueSegmentationTypes",
+                        "paired": "Y",
+                        "Modifier": [
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    255,
+                                    218,
+                                    191
+                                ],
+                                "CodeMeaning": "Right",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "right Maxillary Incisor 2",
+                                "3dSlicerIntegerLabel": 53,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205090",
+                                "CodeValue": "24028007",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "24028007"
+                            },
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    255,
+                                    218,
+                                    191
+                                ],
+                                "CodeMeaning": "Left",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "left Maxillary Incisor 2",
+                                "3dSlicerIntegerLabel": 54,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205091",
+                                "CodeValue": "7771000",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "7771000"
+                            }
+                        ]
+                    },
+                    {
+                        "recommendedDisplayRGBValue": [
+                            70,
+                            192,
+                            255
+                        ],
+                        "CodeMeaning": "Maxillary Incisor 3",
+                        "CodingSchemeDesignator": "UBERON",
+                        "3dSlicerLabel": "Maxillary Incisor 3",
+                        "3dSlicerIntegerLabel": 55,
+                        "CodeValue": "100040",
+                        "contextGroupName": "CommonTissueSegmentationTypes",
+                        "paired": "Y",
+                        "Modifier": [
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    70,
+                                    192,
+                                    255
+                                ],
+                                "CodeMeaning": "Right",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "right Maxillary Incisor 3",
+                                "3dSlicerIntegerLabel": 56,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205090",
+                                "CodeValue": "24028007",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "24028007"
+                            },
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    70,
+                                    192,
+                                    255
+                                ],
+                                "CodeMeaning": "Left",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "left Maxillary Incisor 3",
+                                "3dSlicerIntegerLabel": 57,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205091",
+                                "CodeValue": "7771000",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "7771000"
+                            }
+                        ]
+                    },
+                    {
+                        "recommendedDisplayRGBValue": [
+                            255,
+                            96,
+                            173
+                        ],
+                        "CodeMeaning": "Maxillary Incisor 4",
+                        "CodingSchemeDesignator": "UBERON",
+                        "3dSlicerLabel": "Maxillary Incisor 4",
+                        "3dSlicerIntegerLabel": 58,
+                        "CodeValue": "100041",
+                        "contextGroupName": "CommonTissueSegmentationTypes",
+                        "paired": "Y",
+                        "Modifier": [
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    255,
+                                    96,
+                                    173
+                                ],
+                                "CodeMeaning": "Right",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "right Maxillary Incisor 4",
+                                "3dSlicerIntegerLabel": 59,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205090",
+                                "CodeValue": "24028007",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "24028007"
+                            },
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    255,
+                                    96,
+                                    173
+                                ],
+                                "CodeMeaning": "Left",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "left Maxillary Incisor 4",
+                                "3dSlicerIntegerLabel": 60,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205091",
+                                "CodeValue": "7771000",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "7771000"
+                            }
+                        ]
+                    },
+                    {
+                        "recommendedDisplayRGBValue": [
+                            200,
+                            13,
+                            155
+                        ],
+                        "CodeMeaning": "Maxillary Incisor 5",
+                        "CodingSchemeDesignator": "UBERON",
+                        "3dSlicerLabel": "Maxillary Incisor 5",
+                        "3dSlicerIntegerLabel": 61,
+                        "CodeValue": "100042",
+                        "contextGroupName": "CommonTissueSegmentationTypes",
+                        "paired": "Y",
+                        "Modifier": [
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    200,
+                                    13,
+                                    155
+                                ],
+                                "CodeMeaning": "Right",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "right Maxillary Incisor 5",
+                                "3dSlicerIntegerLabel": 62,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205090",
+                                "CodeValue": "24028007",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "24028007"
+                            },
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    200,
+                                    13,
+                                    155
+                                ],
+                                "CodeMeaning": "Left",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "left Maxillary Incisor 5",
+                                "3dSlicerIntegerLabel": 63,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205091",
+                                "CodeValue": "7771000",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "7771000"
+                            }
+                        ]
+                    },
+                    {
+                        "recommendedDisplayRGBValue": [
+                            159,
+                            94,
+                            189
+                        ],
+                        "CodeMeaning": "Mandibular Incisor 1",
+                        "CodingSchemeDesignator": "UBERON",
+                        "3dSlicerLabel": "Mandibular Incisor 1",
+                        "3dSlicerIntegerLabel": 64,
+                        "CodeValue": "100043",
+                        "contextGroupName": "CommonTissueSegmentationTypes",
+                        "paired": "Y",
+                        "Modifier": [
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    159,
+                                    94,
+                                    189
+                                ],
+                                "CodeMeaning": "Right",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "right Mandibular Incisor 1",
+                                "3dSlicerIntegerLabel": 65,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205090",
+                                "CodeValue": "24028007",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "24028007"
+                            },
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    159,
+                                    94,
+                                    189
+                                ],
+                                "CodeMeaning": "Left",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "left Mandibular Incisor 1",
+                                "3dSlicerIntegerLabel": 66,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205091",
+                                "CodeValue": "7771000",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "7771000"
+                            }
+                        ]
+                    },
+                    {
+                        "recommendedDisplayRGBValue": [
+                            35,
+                            178,
+                            224
+                        ],
+                        "CodeMeaning": "Mandibular Incisor 2",
+                        "CodingSchemeDesignator": "UBERON",
+                        "3dSlicerLabel": "Mandibular Incisor 2",
+                        "3dSlicerIntegerLabel": 67,
+                        "CodeValue": "100044",
+                        "contextGroupName": "CommonTissueSegmentationTypes",
+                        "paired": "Y",
+                        "Modifier": [
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    35,
+                                    178,
+                                    224
+                                ],
+                                "CodeMeaning": "Right",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "right Mandibular Incisor 2",
+                                "3dSlicerIntegerLabel": 68,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205090",
+                                "CodeValue": "24028007",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "24028007"
+                            },
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    35,
+                                    178,
+                                    224
+                                ],
+                                "CodeMeaning": "Left",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "left Mandibular Incisor 2",
+                                "3dSlicerIntegerLabel": 69,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205091",
+                                "CodeValue": "7771000",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "7771000"
+                            }
+                        ]
+                    },
+                    {
+                        "recommendedDisplayRGBValue": [
+                            114,
+                            218,
+                            230
+                        ],
+                        "CodeMeaning": "Mandibular Incisor 3",
+                        "CodingSchemeDesignator": "UBERON",
+                        "3dSlicerLabel": "Mandibular Incisor 3",
+                        "3dSlicerIntegerLabel": 70,
+                        "CodeValue": "100045",
+                        "contextGroupName": "CommonTissueSegmentationTypes",
+                        "paired": "Y",
+                        "Modifier": [
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    114,
+                                    218,
+                                    230
+                                ],
+                                "CodeMeaning": "Right",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "right Mandibular Incisor 3",
+                                "3dSlicerIntegerLabel": 71,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205090",
+                                "CodeValue": "24028007",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "24028007"
+                            },
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    114,
+                                    218,
+                                    230
+                                ],
+                                "CodeMeaning": "Left",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "left Mandibular Incisor 3",
+                                "3dSlicerIntegerLabel": 72,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205091",
+                                "CodeValue": "7771000",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "7771000"
+                            }
+                        ]
+                    },
+                    {
+                        "recommendedDisplayRGBValue": [
+                            183,
+                            251,
+                            251
+                        ],
+                        "CodeMeaning": "Mandibular Incisor 4",
+                        "CodingSchemeDesignator": "UBERON",
+                        "3dSlicerLabel": "Mandibular Incisor 4",
+                        "3dSlicerIntegerLabel": 73,
+                        "CodeValue": "100046",
+                        "contextGroupName": "CommonTissueSegmentationTypes",
+                        "paired": "Y",
+                        "Modifier": [
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    183,
+                                    251,
+                                    251
+                                ],
+                                "CodeMeaning": "Right",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "right Mandibular Incisor 4",
+                                "3dSlicerIntegerLabel": 74,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205090",
+                                "CodeValue": "24028007",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "24028007"
+                            },
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    183,
+                                    251,
+                                    251
+                                ],
+                                "CodeMeaning": "Left",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "left Mandibular Incisor 4",
+                                "3dSlicerIntegerLabel": 75,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205091",
+                                "CodeValue": "7771000",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "7771000"
+                            }
+                        ]
+                    },
+                    {
+                        "recommendedDisplayRGBValue": [
+                            56,
+                            165,
+                            152
+                        ],
+                        "CodeMeaning": "Mandibular Incisor 5",
+                        "CodingSchemeDesignator": "UBERON",
+                        "3dSlicerLabel": "Mandibular Incisor 5",
+                        "3dSlicerIntegerLabel": 76,
+                        "CodeValue": "100047",
+                        "contextGroupName": "CommonTissueSegmentationTypes",
+                        "paired": "Y",
+                        "Modifier": [
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    56,
+                                    165,
+                                    152
+                                ],
+                                "CodeMeaning": "Right",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "right Mandibular Incisor 5",
+                                "3dSlicerIntegerLabel": 77,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205090",
+                                "CodeValue": "24028007",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "24028007"
+                            },
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    56,
+                                    165,
+                                    152
+                                ],
+                                "CodeMeaning": "Left",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "left Mandibular Incisor 5",
+                                "3dSlicerIntegerLabel": 78,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205091",
+                                "CodeValue": "7771000",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "7771000"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "CodeMeaning": "Hindlimb",
+                "CodingSchemeDesignator": "UBERON",
+                "showAnatomy": true,
+                "cid": "7150",
+                "CodeValue": "100056",
+                "contextGroupName": "SegmentationPropertyCategories",
+                "Type": [
+                    {
+                        "recommendedDisplayRGBValue": [
+                            230,
+                            119,
+                            80
+                        ],
+                        "CodeMeaning": "Hindlimb",
+                        "CodingSchemeDesignator": "UBERON",
+                        "3dSlicerLabel": "Hindlimb",
+                        "3dSlicerIntegerLabel": 79,
+                        "CodeValue": "100056",
+                        "contextGroupName": "CommonTissueSegmentationTypes",
+                        "paired": "Y",
+                        "Modifier": [
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    230,
+                                    119,
+                                    80
+                                ],
+                                "CodeMeaning": "Right",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "right Hindlimb",
+                                "3dSlicerIntegerLabel": 80,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205090",
+                                "CodeValue": "24028007",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "24028007"
+                            },
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    230,
+                                    119,
+                                    80
+                                ],
+                                "CodeMeaning": "Left",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "left Hindlimb",
+                                "3dSlicerIntegerLabel": 81,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205091",
+                                "CodeValue": "7771000",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "7771000"
+                            }
+                        ]
+                    },
+                    {
+                        "recommendedDisplayRGBValue": [
+                            213,
+                            98,
+                            229
+                        ],
+                        "CodeMeaning": "Pelvic gridle",
+                        "CodingSchemeDesignator": "UBERON",
+                        "3dSlicerLabel": "Pelvic gridle",
+                        "3dSlicerIntegerLabel": 82,
+                        "cid": "7166",
+                        "CodeValue": "100057",
+                        "contextGroupName": "CommonTissueSegmentationTypes"
+                    },
+                    {
+                        "recommendedDisplayRGBValue": [
+                            127,
+                            82,
+                            255
+                        ],
+                        "CodeMeaning": "Coxa",
+                        "CodingSchemeDesignator": "UBERON",
+                        "3dSlicerLabel": "Coxa",
+                        "3dSlicerIntegerLabel": 83,
+                        "CodeValue": "100058",
+                        "contextGroupName": "CommonTissueSegmentationTypes",
+                        "paired": "Y",
+                        "Modifier": [
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    127,
+                                    82,
+                                    255
+                                ],
+                                "CodeMeaning": "Right",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "right Coxa",
+                                "3dSlicerIntegerLabel": 84,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205090",
+                                "CodeValue": "24028007",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "24028007"
+                            },
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    127,
+                                    82,
+                                    255
+                                ],
+                                "CodeMeaning": "Left",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "left Coxa",
+                                "3dSlicerIntegerLabel": 85,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205091",
+                                "CodeValue": "7771000",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "7771000"
+                            }
+                        ]
+                    },
+                    {
+                        "recommendedDisplayRGBValue": [
+                            145,
+                            235,
+                            120
+                        ],
+                        "CodeMeaning": "Ilium",
+                        "CodingSchemeDesignator": "UBERON",
+                        "3dSlicerLabel": "Ilium",
+                        "3dSlicerIntegerLabel": 86,
+                        "CodeValue": "100059",
+                        "contextGroupName": "CommonTissueSegmentationTypes",
+                        "paired": "Y",
+                        "Modifier": [
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    145,
+                                    235,
+                                    120
+                                ],
+                                "CodeMeaning": "Right",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "right Ilium",
+                                "3dSlicerIntegerLabel": 87,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205090",
+                                "CodeValue": "24028007",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "24028007"
+                            },
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    145,
+                                    235,
+                                    120
+                                ],
+                                "CodeMeaning": "Left",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "left Ilium",
+                                "3dSlicerIntegerLabel": 88,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205091",
+                                "CodeValue": "7771000",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "7771000"
+                            }
+                        ]
+                    },
+                    {
+                        "recommendedDisplayRGBValue": [
+                            255,
+                            249,
+                            87
+                        ],
+                        "CodeMeaning": "Ischium",
+                        "CodingSchemeDesignator": "UBERON",
+                        "3dSlicerLabel": "Ischium",
+                        "3dSlicerIntegerLabel": 89,
+                        "CodeValue": "100060",
+                        "contextGroupName": "CommonTissueSegmentationTypes",
+                        "paired": "Y",
+                        "Modifier": [
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    255,
+                                    249,
+                                    87
+                                ],
+                                "CodeMeaning": "Right",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "right Ischium",
+                                "3dSlicerIntegerLabel": 90,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205090",
+                                "CodeValue": "24028007",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "24028007"
+                            },
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    255,
+                                    249,
+                                    87
+                                ],
+                                "CodeMeaning": "Left",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "left Ischium",
+                                "3dSlicerIntegerLabel": 91,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205091",
+                                "CodeValue": "7771000",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "7771000"
+                            }
+                        ]
+                    },
+                    {
+                        "recommendedDisplayRGBValue": [
+                            236,
+                            148,
+                            208
+                        ],
+                        "CodeMeaning": "Pubis",
+                        "CodingSchemeDesignator": "UBERON",
+                        "3dSlicerLabel": "Pubis",
+                        "3dSlicerIntegerLabel": 92,
+                        "CodeValue": "100061",
+                        "contextGroupName": "CommonTissueSegmentationTypes",
+                        "paired": "Y",
+                        "Modifier": [
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    236,
+                                    148,
+                                    208
+                                ],
+                                "CodeMeaning": "Right",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "right Pubis",
+                                "3dSlicerIntegerLabel": 93,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205090",
+                                "CodeValue": "24028007",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "24028007"
+                            },
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    236,
+                                    148,
+                                    208
+                                ],
+                                "CodeMeaning": "Left",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "left Pubis",
+                                "3dSlicerIntegerLabel": 94,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205091",
+                                "CodeValue": "7771000",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "7771000"
+                            }
+                        ]
+                    },
+                    {
+                        "recommendedDisplayRGBValue": [
+                            250,
+                            170,
+                            50
+                        ],
+                        "CodeMeaning": "Epipubis",
+                        "CodingSchemeDesignator": "UBERON",
+                        "3dSlicerLabel": "Epipubis",
+                        "3dSlicerIntegerLabel": 95,
+                        "CodeValue": "100062",
+                        "contextGroupName": "CommonTissueSegmentationTypes",
+                        "paired": "Y",
+                        "Modifier": [
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    250,
+                                    170,
+                                    50
+                                ],
+                                "CodeMeaning": "Right",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "right Epipubis",
+                                "3dSlicerIntegerLabel": 96,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205090",
+                                "CodeValue": "24028007",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "24028007"
+                            },
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    250,
+                                    170,
+                                    50
+                                ],
+                                "CodeMeaning": "Left",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "left Epipubis",
+                                "3dSlicerIntegerLabel": 97,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205091",
+                                "CodeValue": "7771000",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "7771000"
+                            }
+                        ]
+                    },
+                    {
+                        "recommendedDisplayRGBValue": [
+                            87,
+                            197,
+                            211
+                        ],
+                        "CodeMeaning": "Lower Leg",
+                        "CodingSchemeDesignator": "UBERON",
+                        "3dSlicerLabel": "Lower Leg",
+                        "3dSlicerIntegerLabel": 98,
+                        "CodeValue": "100063",
+                        "contextGroupName": "CommonTissueSegmentationTypes",
+                        "paired": "Y",
+                        "Modifier": [
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    87,
+                                    197,
+                                    211
+                                ],
+                                "CodeMeaning": "Right",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "right Lower Leg",
+                                "3dSlicerIntegerLabel": 99,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205090",
+                                "CodeValue": "24028007",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "24028007"
+                            },
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    87,
+                                    197,
+                                    211
+                                ],
+                                "CodeMeaning": "Left",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "left Lower Leg",
+                                "3dSlicerIntegerLabel": 100,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205091",
+                                "CodeValue": "7771000",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "7771000"
+                            }
+                        ]
+                    },
+                    {
+                        "recommendedDisplayRGBValue": [
+                            240,
+                            77,
+                            115
+                        ],
+                        "CodeMeaning": "Femur",
+                        "CodingSchemeDesignator": "UBERON",
+                        "3dSlicerLabel": "Femur",
+                        "3dSlicerIntegerLabel": 101,
+                        "CodeValue": "100064",
+                        "contextGroupName": "CommonTissueSegmentationTypes",
+                        "paired": "Y",
+                        "Modifier": [
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    240,
+                                    77,
+                                    115
+                                ],
+                                "CodeMeaning": "Right",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "right Femur",
+                                "3dSlicerIntegerLabel": 102,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205090",
+                                "CodeValue": "24028007",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "24028007"
+                            },
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    240,
+                                    77,
+                                    115
+                                ],
+                                "CodeMeaning": "Left",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "left Femur",
+                                "3dSlicerIntegerLabel": 103,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205091",
+                                "CodeValue": "7771000",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "7771000"
+                            }
+                        ]
+                    },
+                    {
+                        "recommendedDisplayRGBValue": [
+                            65,
+                            36,
+                            128
+                        ],
+                        "CodeMeaning": "Tibia",
+                        "CodingSchemeDesignator": "UBERON",
+                        "3dSlicerLabel": "Tibia",
+                        "3dSlicerIntegerLabel": 104,
+                        "CodeValue": "100065",
+                        "contextGroupName": "CommonTissueSegmentationTypes",
+                        "paired": "Y",
+                        "Modifier": [
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    65,
+                                    36,
+                                    128
+                                ],
+                                "CodeMeaning": "Right",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "right Tibia",
+                                "3dSlicerIntegerLabel": 105,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205090",
+                                "CodeValue": "24028007",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "24028007"
+                            },
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    65,
+                                    36,
+                                    128
+                                ],
+                                "CodeMeaning": "Left",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "left Tibia",
+                                "3dSlicerIntegerLabel": 106,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205091",
+                                "CodeValue": "7771000",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "7771000"
+                            }
+                        ]
+                    },
+                    {
+                        "recommendedDisplayRGBValue": [
+                            120,
+                            82,
+                            204
+                        ],
+                        "CodeMeaning": "Fibula",
+                        "CodingSchemeDesignator": "UBERON",
+                        "3dSlicerLabel": "Fibula",
+                        "3dSlicerIntegerLabel": 107,
+                        "CodeValue": "100066",
+                        "contextGroupName": "CommonTissueSegmentationTypes",
+                        "paired": "Y",
+                        "Modifier": [
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    120,
+                                    82,
+                                    204
+                                ],
+                                "CodeMeaning": "Right",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "right Fibula",
+                                "3dSlicerIntegerLabel": 108,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205090",
+                                "CodeValue": "24028007",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "24028007"
+                            },
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    120,
+                                    82,
+                                    204
+                                ],
+                                "CodeMeaning": "Left",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "left Fibula",
+                                "3dSlicerIntegerLabel": 109,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205091",
+                                "CodeValue": "7771000",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "7771000"
+                            }
+                        ]
+                    },
+                    {
+                        "recommendedDisplayRGBValue": [
+                            101,
+                            56,
+                            199
+                        ],
+                        "CodeMeaning": "Patella",
+                        "CodingSchemeDesignator": "UBERON",
+                        "3dSlicerLabel": "Patella",
+                        "3dSlicerIntegerLabel": 110,
+                        "CodeValue": "100067",
+                        "contextGroupName": "CommonTissueSegmentationTypes",
+                        "paired": "Y",
+                        "Modifier": [
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    101,
+                                    56,
+                                    199
+                                ],
+                                "CodeMeaning": "Right",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "right Patella",
+                                "3dSlicerIntegerLabel": 111,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205090",
+                                "CodeValue": "24028007",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "24028007"
+                            },
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    101,
+                                    56,
+                                    199
+                                ],
+                                "CodeMeaning": "Left",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "left Patella",
+                                "3dSlicerIntegerLabel": 112,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205091",
+                                "CodeValue": "7771000",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "7771000"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "CodeMeaning": "Chest",
+                "CodingSchemeDesignator": "UBERON",
+                "showAnatomy": true,
+                "cid": "7150",
+                "CodeValue": "100080",
+                "contextGroupName": "SegmentationPropertyCategories",
+                "Type": [
+                    {
+                        "recommendedDisplayRGBValue": [
+                            237,
+                            217,
+                            114
+                        ],
+                        "CodeMeaning": "Sternum",
+                        "CodingSchemeDesignator": "UBERON",
+                        "3dSlicerLabel": "Sternum",
+                        "3dSlicerIntegerLabel": 113,
+                        "cid": "7166",
+                        "CodeValue": "100080",
+                        "contextGroupName": "CommonTissueSegmentationTypes"
+                    },
+                    {
+                        "recommendedDisplayRGBValue": [
+                            0,
+                            179,
+                            92
+                        ],
+                        "CodeMeaning": "Rib 1",
+                        "CodingSchemeDesignator": "UBERON",
+                        "3dSlicerLabel": "Rib 1",
+                        "3dSlicerIntegerLabel": 114,
+                        "CodeValue": "100081",
+                        "contextGroupName": "CommonTissueSegmentationTypes",
+                        "paired": "Y",
+                        "Modifier": [
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    0,
+                                    179,
+                                    92
+                                ],
+                                "CodeMeaning": "Right",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "right Rib 1",
+                                "3dSlicerIntegerLabel": 115,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205090",
+                                "CodeValue": "24028007",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "24028007"
+                            },
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    0,
+                                    179,
+                                    92
+                                ],
+                                "CodeMeaning": "Left",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "left Rib 1",
+                                "3dSlicerIntegerLabel": 116,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205091",
+                                "CodeValue": "7771000",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "7771000"
+                            }
+                        ]
+                    },
+                    {
+                        "recommendedDisplayRGBValue": [
+                            144,
+                            16,
+                            49
+                        ],
+                        "CodeMeaning": "Rib 2",
+                        "CodingSchemeDesignator": "UBERON",
+                        "3dSlicerLabel": "Rib 2",
+                        "3dSlicerIntegerLabel": 117,
+                        "CodeValue": "100082",
+                        "contextGroupName": "CommonTissueSegmentationTypes",
+                        "paired": "Y",
+                        "Modifier": [
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    144,
+                                    16,
+                                    49
+                                ],
+                                "CodeMeaning": "Right",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "right Rib 2",
+                                "3dSlicerIntegerLabel": 118,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205090",
+                                "CodeValue": "24028007",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "24028007"
+                            },
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    144,
+                                    16,
+                                    49
+                                ],
+                                "CodeMeaning": "Left",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "left Rib 2",
+                                "3dSlicerIntegerLabel": 119,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205091",
+                                "CodeValue": "7771000",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "7771000"
+                            }
+                        ]
+                    },
+                    {
+                        "recommendedDisplayRGBValue": [
+                            255,
+                            237,
+                            76
+                        ],
+                        "CodeMeaning": "Rib 3",
+                        "CodingSchemeDesignator": "UBERON",
+                        "3dSlicerLabel": "Rib 3",
+                        "3dSlicerIntegerLabel": 120,
+                        "CodeValue": "100083",
+                        "contextGroupName": "CommonTissueSegmentationTypes",
+                        "paired": "Y",
+                        "Modifier": [
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    255,
+                                    237,
+                                    76
+                                ],
+                                "CodeMeaning": "Right",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "right Rib 3",
+                                "3dSlicerIntegerLabel": 121,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205090",
+                                "CodeValue": "24028007",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "24028007"
+                            },
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    255,
+                                    237,
+                                    76
+                                ],
+                                "CodeMeaning": "Left",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "left Rib 3",
+                                "3dSlicerIntegerLabel": 122,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205091",
+                                "CodeValue": "7771000",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "7771000"
+                            }
+                        ]
+                    },
+                    {
+                        "recommendedDisplayRGBValue": [
+                            50,
+                            25,
+                            91
+                        ],
+                        "CodeMeaning": "Rib 4",
+                        "CodingSchemeDesignator": "UBERON",
+                        "3dSlicerLabel": "Rib 4",
+                        "3dSlicerIntegerLabel": 123,
+                        "CodeValue": "100084",
+                        "contextGroupName": "CommonTissueSegmentationTypes",
+                        "paired": "Y",
+                        "Modifier": [
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    50,
+                                    25,
+                                    91
+                                ],
+                                "CodeMeaning": "Right",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "right Rib 4",
+                                "3dSlicerIntegerLabel": 124,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205090",
+                                "CodeValue": "24028007",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "24028007"
+                            },
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    50,
+                                    25,
+                                    91
+                                ],
+                                "CodeMeaning": "Left",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "left Rib 4",
+                                "3dSlicerIntegerLabel": 125,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205091",
+                                "CodeValue": "7771000",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "7771000"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "CodeMeaning": "Head",
+                "CodingSchemeDesignator": "UBERON",
+                "showAnatomy": true,
+                "cid": "7150",
+                "CodeValue": "100000",
+                "contextGroupName": "SegmentationPropertyCategories",
+                "Type": [
+                    {
+                        "recommendedDisplayRGBValue": [
+                            145,
+                            235,
+                            120
+                        ],
+                        "CodeMeaning": "Cranium",
+                        "CodingSchemeDesignator": "UBERON",
+                        "3dSlicerLabel": "Cranium",
+                        "3dSlicerIntegerLabel": 126,
+                        "cid": "7166",
+                        "CodeValue": "100000",
+                        "contextGroupName": "CommonTissueSegmentationTypes"
+                    },
+                    {
+                        "recommendedDisplayRGBValue": [
+                            255,
+                            249,
+                            87
+                        ],
+                        "CodeMeaning": "Mandible",
+                        "CodingSchemeDesignator": "UBERON",
+                        "3dSlicerLabel": "Mandible",
+                        "3dSlicerIntegerLabel": 127,
+                        "CodeValue": "100001",
+                        "contextGroupName": "CommonTissueSegmentationTypes",
+                        "paired": "Y",
+                        "Modifier": [
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    255,
+                                    249,
+                                    87
+                                ],
+                                "CodeMeaning": "Right",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "right Mandible",
+                                "3dSlicerIntegerLabel": 128,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205090",
+                                "CodeValue": "24028007",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "24028007"
+                            },
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    255,
+                                    249,
+                                    87
+                                ],
+                                "CodeMeaning": "Left",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "left Mandible",
+                                "3dSlicerIntegerLabel": 129,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205091",
+                                "CodeValue": "7771000",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "7771000"
+                            }
+                        ]
+                    },
+                    {
+                        "recommendedDisplayRGBValue": [
+                            236,
+                            148,
+                            208
+                        ],
+                        "CodeMeaning": "Nasal",
+                        "CodingSchemeDesignator": "UBERON",
+                        "3dSlicerLabel": "Nasal",
+                        "3dSlicerIntegerLabel": 130,
+                        "CodeValue": "100002",
+                        "contextGroupName": "CommonTissueSegmentationTypes",
+                        "paired": "Y",
+                        "Modifier": [
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    236,
+                                    148,
+                                    208
+                                ],
+                                "CodeMeaning": "Right",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "right Nasal",
+                                "3dSlicerIntegerLabel": 131,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205090",
+                                "CodeValue": "24028007",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "24028007"
+                            },
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    236,
+                                    148,
+                                    208
+                                ],
+                                "CodeMeaning": "Left",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "left Nasal",
+                                "3dSlicerIntegerLabel": 132,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205091",
+                                "CodeValue": "7771000",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "7771000"
+                            }
+                        ]
+                    },
+                    {
+                        "recommendedDisplayRGBValue": [
+                            250,
+                            170,
+                            50
+                        ],
+                        "CodeMeaning": "Maxilla",
+                        "CodingSchemeDesignator": "UBERON",
+                        "3dSlicerLabel": "Maxilla",
+                        "3dSlicerIntegerLabel": 133,
+                        "CodeValue": "100003",
+                        "contextGroupName": "CommonTissueSegmentationTypes",
+                        "paired": "Y",
+                        "Modifier": [
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    250,
+                                    170,
+                                    50
+                                ],
+                                "CodeMeaning": "Right",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "right Maxilla",
+                                "3dSlicerIntegerLabel": 134,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205090",
+                                "CodeValue": "24028007",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "24028007"
+                            },
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    250,
+                                    170,
+                                    50
+                                ],
+                                "CodeMeaning": "Left",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "left Maxilla",
+                                "3dSlicerIntegerLabel": 135,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205091",
+                                "CodeValue": "7771000",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "7771000"
+                            }
+                        ]
+                    },
+                    {
+                        "recommendedDisplayRGBValue": [
+                            87,
+                            197,
+                            211
+                        ],
+                        "CodeMeaning": "Premaxilla",
+                        "CodingSchemeDesignator": "UBERON",
+                        "3dSlicerLabel": "Premaxilla",
+                        "3dSlicerIntegerLabel": 136,
+                        "cid": "7166",
+                        "CodeValue": "100004",
+                        "contextGroupName": "CommonTissueSegmentationTypes"
+                    },
+                    {
+                        "recommendedDisplayRGBValue": [
+                            240,
+                            77,
+                            115
+                        ],
+                        "CodeMeaning": "Zygomatics",
+                        "CodingSchemeDesignator": "UBERON",
+                        "3dSlicerLabel": "Zygomatics",
+                        "3dSlicerIntegerLabel": 137,
+                        "CodeValue": "100005",
+                        "contextGroupName": "CommonTissueSegmentationTypes",
+                        "paired": "Y",
+                        "Modifier": [
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    240,
+                                    77,
+                                    115
+                                ],
+                                "CodeMeaning": "Right",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "right Zygomatics",
+                                "3dSlicerIntegerLabel": 138,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205090",
+                                "CodeValue": "24028007",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "24028007"
+                            },
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    240,
+                                    77,
+                                    115
+                                ],
+                                "CodeMeaning": "Left",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "left Zygomatics",
+                                "3dSlicerIntegerLabel": 139,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205091",
+                                "CodeValue": "7771000",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "7771000"
+                            }
+                        ]
+                    },
+                    {
+                        "recommendedDisplayRGBValue": [
+                            65,
+                            36,
+                            128
+                        ],
+                        "CodeMeaning": "Frontal",
+                        "CodingSchemeDesignator": "UBERON",
+                        "3dSlicerLabel": "Frontal",
+                        "3dSlicerIntegerLabel": 140,
+                        "CodeValue": "100006",
+                        "contextGroupName": "CommonTissueSegmentationTypes",
+                        "paired": "Y",
+                        "Modifier": [
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    65,
+                                    36,
+                                    128
+                                ],
+                                "CodeMeaning": "Right",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "right Frontal",
+                                "3dSlicerIntegerLabel": 141,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205090",
+                                "CodeValue": "24028007",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "24028007"
+                            },
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    65,
+                                    36,
+                                    128
+                                ],
+                                "CodeMeaning": "Left",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "left Frontal",
+                                "3dSlicerIntegerLabel": 142,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205091",
+                                "CodeValue": "7771000",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "7771000"
+                            }
+                        ]
+                    },
+                    {
+                        "recommendedDisplayRGBValue": [
+                            120,
+                            82,
+                            204
+                        ],
+                        "CodeMeaning": "Parietal",
+                        "CodingSchemeDesignator": "UBERON",
+                        "3dSlicerLabel": "Parietal",
+                        "3dSlicerIntegerLabel": 143,
+                        "CodeValue": "100007",
+                        "contextGroupName": "CommonTissueSegmentationTypes",
+                        "paired": "Y",
+                        "Modifier": [
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    120,
+                                    82,
+                                    204
+                                ],
+                                "CodeMeaning": "Right",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "right Parietal",
+                                "3dSlicerIntegerLabel": 144,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205090",
+                                "CodeValue": "24028007",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "24028007"
+                            },
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    120,
+                                    82,
+                                    204
+                                ],
+                                "CodeMeaning": "Left",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "left Parietal",
+                                "3dSlicerIntegerLabel": 145,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205091",
+                                "CodeValue": "7771000",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "7771000"
+                            }
+                        ]
+                    },
+                    {
+                        "recommendedDisplayRGBValue": [
+                            101,
+                            56,
+                            199
+                        ],
+                        "CodeMeaning": "Interparietal",
+                        "CodingSchemeDesignator": "UBERON",
+                        "3dSlicerLabel": "Interparietal",
+                        "3dSlicerIntegerLabel": 146,
+                        "cid": "7166",
+                        "CodeValue": "100008",
+                        "contextGroupName": "CommonTissueSegmentationTypes"
+                    },
+                    {
+                        "recommendedDisplayRGBValue": [
+                            218,
+                            201,
+                            255
+                        ],
+                        "CodeMeaning": "Occipital",
+                        "CodingSchemeDesignator": "UBERON",
+                        "3dSlicerLabel": "Occipital",
+                        "3dSlicerIntegerLabel": 147,
+                        "cid": "7166",
+                        "CodeValue": "100009",
+                        "contextGroupName": "CommonTissueSegmentationTypes"
+                    },
+                    {
+                        "recommendedDisplayRGBValue": [
+                            41,
+                            95,
+                            204
+                        ],
+                        "CodeMeaning": "Sphenoid",
+                        "CodingSchemeDesignator": "UBERON",
+                        "3dSlicerLabel": "Sphenoid",
+                        "3dSlicerIntegerLabel": 148,
+                        "cid": "7166",
+                        "CodeValue": "100010",
+                        "contextGroupName": "CommonTissueSegmentationTypes"
+                    },
+                    {
+                        "recommendedDisplayRGBValue": [
+                            103,
+                            87,
+                            138
+                        ],
+                        "CodeMeaning": "Petrosal",
+                        "CodingSchemeDesignator": "UBERON",
+                        "3dSlicerLabel": "Petrosal",
+                        "3dSlicerIntegerLabel": 149,
+                        "CodeValue": "100011",
+                        "contextGroupName": "CommonTissueSegmentationTypes",
+                        "paired": "Y",
+                        "Modifier": [
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    103,
+                                    87,
+                                    138
+                                ],
+                                "CodeMeaning": "Right",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "right Petrosal",
+                                "3dSlicerIntegerLabel": 150,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205090",
+                                "CodeValue": "24028007",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "24028007"
+                            },
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    103,
+                                    87,
+                                    138
+                                ],
+                                "CodeMeaning": "Left",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "left Petrosal",
+                                "3dSlicerIntegerLabel": 151,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205091",
+                                "CodeValue": "7771000",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "7771000"
+                            }
+                        ]
+                    },
+                    {
+                        "recommendedDisplayRGBValue": [
+                            213,
+                            155,
+                            255
+                        ],
+                        "CodeMeaning": "Temporal",
+                        "CodingSchemeDesignator": "UBERON",
+                        "3dSlicerLabel": "Temporal",
+                        "3dSlicerIntegerLabel": 152,
+                        "CodeValue": "100012",
+                        "contextGroupName": "CommonTissueSegmentationTypes",
+                        "paired": "Y",
+                        "Modifier": [
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    213,
+                                    155,
+                                    255
+                                ],
+                                "CodeMeaning": "Right",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "right Temporal",
+                                "3dSlicerIntegerLabel": 153,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205090",
+                                "CodeValue": "24028007",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "24028007"
+                            },
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    213,
+                                    155,
+                                    255
+                                ],
+                                "CodeMeaning": "Left",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "left Temporal",
+                                "3dSlicerIntegerLabel": 154,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205091",
+                                "CodeValue": "7771000",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "7771000"
+                            }
+                        ]
+                    },
+                    {
+                        "recommendedDisplayRGBValue": [
+                            204,
+                            41,
+                            150
+                        ],
+                        "CodeMeaning": "Ethmoid",
+                        "CodingSchemeDesignator": "UBERON",
+                        "3dSlicerLabel": "Ethmoid",
+                        "3dSlicerIntegerLabel": 155,
+                        "cid": "7166",
+                        "CodeValue": "100013",
+                        "contextGroupName": "CommonTissueSegmentationTypes"
+                    },
+                    {
+                        "recommendedDisplayRGBValue": [
+                            61,
+                            219,
+                            190
+                        ],
+                        "CodeMeaning": "Presphenoid",
+                        "CodingSchemeDesignator": "UBERON",
+                        "3dSlicerLabel": "Presphenoid",
+                        "3dSlicerIntegerLabel": 156,
+                        "cid": "7166",
+                        "CodeValue": "100014",
+                        "contextGroupName": "CommonTissueSegmentationTypes"
+                    },
+                    {
+                        "recommendedDisplayRGBValue": [
+                            16,
+                            57,
+                            204
+                        ],
+                        "CodeMeaning": "Tympanic Ring",
+                        "CodingSchemeDesignator": "UBERON",
+                        "3dSlicerLabel": "Tympanic Ring",
+                        "3dSlicerIntegerLabel": 157,
+                        "CodeValue": "100015",
+                        "contextGroupName": "CommonTissueSegmentationTypes",
+                        "paired": "Y",
+                        "Modifier": [
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    16,
+                                    57,
+                                    204
+                                ],
+                                "CodeMeaning": "Right",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "right Tympanic Ring",
+                                "3dSlicerIntegerLabel": 158,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205090",
+                                "CodeValue": "24028007",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "24028007"
+                            },
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    16,
+                                    57,
+                                    204
+                                ],
+                                "CodeMeaning": "Left",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "left Tympanic Ring",
+                                "3dSlicerIntegerLabel": 159,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205091",
+                                "CodeValue": "7771000",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "7771000"
+                            }
+                        ]
+                    },
+                    {
+                        "recommendedDisplayRGBValue": [
+                            116,
+                            217,
+                            69
+                        ],
+                        "CodeMeaning": "Tympanic Bulla",
+                        "CodingSchemeDesignator": "UBERON",
+                        "3dSlicerLabel": "Tympanic Bulla",
+                        "3dSlicerIntegerLabel": 160,
+                        "CodeValue": "100016",
+                        "contextGroupName": "CommonTissueSegmentationTypes",
+                        "paired": "Y",
+                        "Modifier": [
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    116,
+                                    217,
+                                    69
+                                ],
+                                "CodeMeaning": "Right",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "right Tympanic Bulla",
+                                "3dSlicerIntegerLabel": 161,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205090",
+                                "CodeValue": "24028007",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "24028007"
+                            },
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    116,
+                                    217,
+                                    69
+                                ],
+                                "CodeMeaning": "Left",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "left Tympanic Bulla",
+                                "3dSlicerIntegerLabel": 162,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205091",
+                                "CodeValue": "7771000",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "7771000"
+                            }
+                        ]
+                    },
+                    {
+                        "recommendedDisplayRGBValue": [
+                            167,
+                            171,
+                            121
+                        ],
+                        "CodeMeaning": "Hyoid",
+                        "CodingSchemeDesignator": "UBERON",
+                        "3dSlicerLabel": "Hyoid",
+                        "3dSlicerIntegerLabel": 163,
+                        "cid": "7166",
+                        "CodeValue": "100017",
+                        "contextGroupName": "CommonTissueSegmentationTypes"
+                    },
+                    {
+                        "recommendedDisplayRGBValue": [
+                            255,
+                            207,
+                            218
+                        ],
+                        "CodeMeaning": "Lacrymal",
+                        "CodingSchemeDesignator": "UBERON",
+                        "3dSlicerLabel": "Lacrymal",
+                        "3dSlicerIntegerLabel": 164,
+                        "CodeValue": "100018",
+                        "contextGroupName": "CommonTissueSegmentationTypes",
+                        "paired": "Y",
+                        "Modifier": [
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    255,
+                                    207,
+                                    218
+                                ],
+                                "CodeMeaning": "Right",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "right Lacrymal",
+                                "3dSlicerIntegerLabel": 165,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205090",
+                                "CodeValue": "24028007",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "24028007"
+                            },
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    255,
+                                    207,
+                                    218
+                                ],
+                                "CodeMeaning": "Left",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "left Lacrymal",
+                                "3dSlicerIntegerLabel": 166,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205091",
+                                "CodeValue": "7771000",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "7771000"
+                            }
+                        ]
+                    },
+                    {
+                        "recommendedDisplayRGBValue": [
+                            219,
+                            46,
+                            46
+                        ],
+                        "CodeMeaning": "Vomer",
+                        "CodingSchemeDesignator": "UBERON",
+                        "3dSlicerLabel": "Vomer",
+                        "3dSlicerIntegerLabel": 167,
+                        "CodeValue": "100019",
+                        "contextGroupName": "CommonTissueSegmentationTypes",
+                        "paired": "Y",
+                        "Modifier": [
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    219,
+                                    46,
+                                    46
+                                ],
+                                "CodeMeaning": "Right",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "right Vomer",
+                                "3dSlicerIntegerLabel": 168,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205090",
+                                "CodeValue": "24028007",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "24028007"
+                            },
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    219,
+                                    46,
+                                    46
+                                ],
+                                "CodeMeaning": "Left",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "left Vomer",
+                                "3dSlicerIntegerLabel": 169,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205091",
+                                "CodeValue": "7771000",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "7771000"
+                            }
+                        ]
+                    },
+                    {
+                        "recommendedDisplayRGBValue": [
+                            58,
+                            149,
+                            252
+                        ],
+                        "CodeMeaning": "Alisphenoid",
+                        "CodingSchemeDesignator": "UBERON",
+                        "3dSlicerLabel": "Alisphenoid",
+                        "3dSlicerIntegerLabel": 170,
+                        "CodeValue": "100020",
+                        "contextGroupName": "CommonTissueSegmentationTypes",
+                        "paired": "Y",
+                        "Modifier": [
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    58,
+                                    149,
+                                    252
+                                ],
+                                "CodeMeaning": "Right",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "right Alisphenoid",
+                                "3dSlicerIntegerLabel": 171,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205090",
+                                "CodeValue": "24028007",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "24028007"
+                            },
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    58,
+                                    149,
+                                    252
+                                ],
+                                "CodeMeaning": "Left",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "left Alisphenoid",
+                                "3dSlicerIntegerLabel": 172,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205091",
+                                "CodeValue": "7771000",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "7771000"
+                            }
+                        ]
+                    },
+                    {
+                        "recommendedDisplayRGBValue": [
+                            237,
+                            217,
+                            114
+                        ],
+                        "CodeMeaning": "Orbitosphenoid",
+                        "CodingSchemeDesignator": "UBERON",
+                        "3dSlicerLabel": "Orbitosphenoid",
+                        "3dSlicerIntegerLabel": 173,
+                        "CodeValue": "100021",
+                        "contextGroupName": "CommonTissueSegmentationTypes",
+                        "paired": "Y",
+                        "Modifier": [
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    237,
+                                    217,
+                                    114
+                                ],
+                                "CodeMeaning": "Right",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "right Orbitosphenoid",
+                                "3dSlicerIntegerLabel": 174,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205090",
+                                "CodeValue": "24028007",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "24028007"
+                            },
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    237,
+                                    217,
+                                    114
+                                ],
+                                "CodeMeaning": "Left",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "left Orbitosphenoid",
+                                "3dSlicerIntegerLabel": 175,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205091",
+                                "CodeValue": "7771000",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "7771000"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "CodeMeaning": "Spine",
+                "CodingSchemeDesignator": "UBERON",
+                "showAnatomy": true,
+                "cid": "7150",
+                "CodeValue": "100068",
+                "contextGroupName": "SegmentationPropertyCategories",
+                "Type": [
+                    {
+                        "recommendedDisplayRGBValue": [
+                            218,
+                            201,
+                            255
+                        ],
+                        "CodeMeaning": "Cocyx",
+                        "CodingSchemeDesignator": "UBERON",
+                        "3dSlicerLabel": "Cocyx",
+                        "3dSlicerIntegerLabel": 176,
+                        "CodeValue": "100068",
+                        "contextGroupName": "CommonTissueSegmentationTypes",
+                        "paired": "Y",
+                        "Modifier": [
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    218,
+                                    201,
+                                    255
+                                ],
+                                "CodeMeaning": "Right",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "right Cocyx",
+                                "3dSlicerIntegerLabel": 177,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205090",
+                                "CodeValue": "24028007",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "24028007"
+                            },
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    218,
+                                    201,
+                                    255
+                                ],
+                                "CodeMeaning": "Left",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "left Cocyx",
+                                "3dSlicerIntegerLabel": 178,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205091",
+                                "CodeValue": "7771000",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "7771000"
+                            }
+                        ]
+                    },
+                    {
+                        "recommendedDisplayRGBValue": [
+                            41,
+                            95,
+                            204
+                        ],
+                        "CodeMeaning": "Sacrum",
+                        "CodingSchemeDesignator": "UBERON",
+                        "3dSlicerLabel": "Sacrum",
+                        "3dSlicerIntegerLabel": 179,
+                        "CodeValue": "100069",
+                        "contextGroupName": "CommonTissueSegmentationTypes",
+                        "paired": "Y",
+                        "Modifier": [
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    41,
+                                    95,
+                                    204
+                                ],
+                                "CodeMeaning": "Right",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "right Sacrum",
+                                "3dSlicerIntegerLabel": 180,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205090",
+                                "CodeValue": "24028007",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "24028007"
+                            },
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    41,
+                                    95,
+                                    204
+                                ],
+                                "CodeMeaning": "Left",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "left Sacrum",
+                                "3dSlicerIntegerLabel": 181,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205091",
+                                "CodeValue": "7771000",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "7771000"
+                            }
+                        ]
+                    },
+                    {
+                        "recommendedDisplayRGBValue": [
+                            103,
+                            87,
+                            138
+                        ],
+                        "CodeMeaning": "Atlas",
+                        "CodingSchemeDesignator": "UBERON",
+                        "3dSlicerLabel": "Atlas",
+                        "3dSlicerIntegerLabel": 182,
+                        "cid": "7166",
+                        "CodeValue": "100070",
+                        "contextGroupName": "CommonTissueSegmentationTypes"
+                    },
+                    {
+                        "recommendedDisplayRGBValue": [
+                            213,
+                            155,
+                            255
+                        ],
+                        "CodeMeaning": "Axis",
+                        "CodingSchemeDesignator": "UBERON",
+                        "3dSlicerLabel": "Axis",
+                        "3dSlicerIntegerLabel": 183,
+                        "cid": "7166",
+                        "CodeValue": "100071",
+                        "contextGroupName": "CommonTissueSegmentationTypes"
+                    },
+                    {
+                        "recommendedDisplayRGBValue": [
+                            204,
+                            41,
+                            150
+                        ],
+                        "CodeMeaning": "Cervical 3",
+                        "CodingSchemeDesignator": "UBERON",
+                        "3dSlicerLabel": "Cervical 3",
+                        "3dSlicerIntegerLabel": 184,
+                        "cid": "7166",
+                        "CodeValue": "100072",
+                        "contextGroupName": "CommonTissueSegmentationTypes"
+                    },
+                    {
+                        "recommendedDisplayRGBValue": [
+                            61,
+                            219,
+                            190
+                        ],
+                        "CodeMeaning": "Cervical 4",
+                        "CodingSchemeDesignator": "UBERON",
+                        "3dSlicerLabel": "Cervical 4",
+                        "3dSlicerIntegerLabel": 185,
+                        "cid": "7166",
+                        "CodeValue": "100073",
+                        "contextGroupName": "CommonTissueSegmentationTypes"
+                    },
+                    {
+                        "recommendedDisplayRGBValue": [
+                            16,
+                            57,
+                            204
+                        ],
+                        "CodeMeaning": "Thoracic 1",
+                        "CodingSchemeDesignator": "UBERON",
+                        "3dSlicerLabel": "Thoracic 1",
+                        "3dSlicerIntegerLabel": 186,
+                        "cid": "7166",
+                        "CodeValue": "100074",
+                        "contextGroupName": "CommonTissueSegmentationTypes"
+                    },
+                    {
+                        "recommendedDisplayRGBValue": [
+                            116,
+                            217,
+                            69
+                        ],
+                        "CodeMeaning": "Thoracic 2",
+                        "CodingSchemeDesignator": "UBERON",
+                        "3dSlicerLabel": "Thoracic 2",
+                        "3dSlicerIntegerLabel": 187,
+                        "cid": "7166",
+                        "CodeValue": "100075",
+                        "contextGroupName": "CommonTissueSegmentationTypes"
+                    },
+                    {
+                        "recommendedDisplayRGBValue": [
+                            167,
+                            171,
+                            121
+                        ],
+                        "CodeMeaning": "Thoracic 3",
+                        "CodingSchemeDesignator": "UBERON",
+                        "3dSlicerLabel": "Thoracic 3",
+                        "3dSlicerIntegerLabel": 188,
+                        "cid": "7166",
+                        "CodeValue": "100076",
+                        "contextGroupName": "CommonTissueSegmentationTypes"
+                    },
+                    {
+                        "recommendedDisplayRGBValue": [
+                            255,
+                            207,
+                            218
+                        ],
+                        "CodeMeaning": "Lumbar 1",
+                        "CodingSchemeDesignator": "UBERON",
+                        "3dSlicerLabel": "Lumbar 1",
+                        "3dSlicerIntegerLabel": 189,
+                        "cid": "7166",
+                        "CodeValue": "100077",
+                        "contextGroupName": "CommonTissueSegmentationTypes"
+                    },
+                    {
+                        "recommendedDisplayRGBValue": [
+                            219,
+                            46,
+                            46
+                        ],
+                        "CodeMeaning": "Lumbar 2",
+                        "CodingSchemeDesignator": "UBERON",
+                        "3dSlicerLabel": "Lumbar 2",
+                        "3dSlicerIntegerLabel": 190,
+                        "cid": "7166",
+                        "CodeValue": "100078",
+                        "contextGroupName": "CommonTissueSegmentationTypes"
+                    },
+                    {
+                        "recommendedDisplayRGBValue": [
+                            58,
+                            149,
+                            252
+                        ],
+                        "CodeMeaning": "Lumbar 3",
+                        "CodingSchemeDesignator": "UBERON",
+                        "3dSlicerLabel": "Lumbar 3",
+                        "3dSlicerIntegerLabel": 191,
+                        "cid": "7166",
+                        "CodeValue": "100079",
+                        "contextGroupName": "CommonTissueSegmentationTypes"
+                    }
+                ]
+            },
+            {
+                "CodeMeaning": "Forelimb",
+                "CodingSchemeDesignator": "UBERON",
+                "showAnatomy": true,
+                "cid": "7150",
+                "CodeValue": "100048",
+                "contextGroupName": "SegmentationPropertyCategories",
+                "Type": [
+                    {
+                        "recommendedDisplayRGBValue": [
+                            20,
+                            103,
+                            94
+                        ],
+                        "CodeMeaning": "Forelimb",
+                        "CodingSchemeDesignator": "UBERON",
+                        "3dSlicerLabel": "Forelimb",
+                        "3dSlicerIntegerLabel": 192,
+                        "CodeValue": "100048",
+                        "contextGroupName": "CommonTissueSegmentationTypes",
+                        "paired": "Y",
+                        "Modifier": [
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    20,
+                                    103,
+                                    94
+                                ],
+                                "CodeMeaning": "Right",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "right Forelimb",
+                                "3dSlicerIntegerLabel": 193,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205090",
+                                "CodeValue": "24028007",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "24028007"
+                            },
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    20,
+                                    103,
+                                    94
+                                ],
+                                "CodeMeaning": "Left",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "left Forelimb",
+                                "3dSlicerIntegerLabel": 194,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205091",
+                                "CodeValue": "7771000",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "7771000"
+                            }
+                        ]
+                    },
+                    {
+                        "recommendedDisplayRGBValue": [
+                            26,
+                            52,
+                            27
+                        ],
+                        "CodeMeaning": "Pectoral Girdle",
+                        "CodingSchemeDesignator": "UBERON",
+                        "3dSlicerLabel": "Pectoral Girdle",
+                        "3dSlicerIntegerLabel": 195,
+                        "CodeValue": "100049",
+                        "contextGroupName": "CommonTissueSegmentationTypes",
+                        "paired": "Y",
+                        "Modifier": [
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    26,
+                                    52,
+                                    27
+                                ],
+                                "CodeMeaning": "Right",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "right Pectoral Girdle",
+                                "3dSlicerIntegerLabel": 196,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205090",
+                                "CodeValue": "24028007",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "24028007"
+                            },
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    26,
+                                    52,
+                                    27
+                                ],
+                                "CodeMeaning": "Left",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "left Pectoral Girdle",
+                                "3dSlicerIntegerLabel": 197,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205091",
+                                "CodeValue": "7771000",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "7771000"
+                            }
+                        ]
+                    },
+                    {
+                        "recommendedDisplayRGBValue": [
+                            55,
+                            139,
+                            77
+                        ],
+                        "CodeMeaning": "Lower Arm",
+                        "CodingSchemeDesignator": "UBERON",
+                        "3dSlicerLabel": "Lower Arm",
+                        "3dSlicerIntegerLabel": 198,
+                        "CodeValue": "100050",
+                        "contextGroupName": "CommonTissueSegmentationTypes",
+                        "paired": "Y",
+                        "Modifier": [
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    55,
+                                    139,
+                                    77
+                                ],
+                                "CodeMeaning": "Right",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "right Lower Arm",
+                                "3dSlicerIntegerLabel": 199,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205090",
+                                "CodeValue": "24028007",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "24028007"
+                            },
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    55,
+                                    139,
+                                    77
+                                ],
+                                "CodeMeaning": "Left",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "left Lower Arm",
+                                "3dSlicerIntegerLabel": 200,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205091",
+                                "CodeValue": "7771000",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "7771000"
+                            }
+                        ]
+                    },
+                    {
+                        "recommendedDisplayRGBValue": [
+                            129,
+                            212,
+                            139
+                        ],
+                        "CodeMeaning": "Scapula",
+                        "CodingSchemeDesignator": "UBERON",
+                        "3dSlicerLabel": "Scapula",
+                        "3dSlicerIntegerLabel": 201,
+                        "CodeValue": "100051",
+                        "contextGroupName": "CommonTissueSegmentationTypes",
+                        "paired": "Y",
+                        "Modifier": [
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    129,
+                                    212,
+                                    139
+                                ],
+                                "CodeMeaning": "Right",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "right Scapula",
+                                "3dSlicerIntegerLabel": 202,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205090",
+                                "CodeValue": "24028007",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "24028007"
+                            },
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    129,
+                                    212,
+                                    139
+                                ],
+                                "CodeMeaning": "Left",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "left Scapula",
+                                "3dSlicerIntegerLabel": 203,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205091",
+                                "CodeValue": "7771000",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "7771000"
+                            }
+                        ]
+                    },
+                    {
+                        "recommendedDisplayRGBValue": [
+                            190,
+                            250,
+                            215
+                        ],
+                        "CodeMeaning": "Clavicle",
+                        "CodingSchemeDesignator": "UBERON",
+                        "3dSlicerLabel": "Clavicle",
+                        "3dSlicerIntegerLabel": 204,
+                        "CodeValue": "100052",
+                        "contextGroupName": "CommonTissueSegmentationTypes",
+                        "paired": "Y",
+                        "Modifier": [
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    190,
+                                    250,
+                                    215
+                                ],
+                                "CodeMeaning": "Right",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "right Clavicle",
+                                "3dSlicerIntegerLabel": 205,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205090",
+                                "CodeValue": "24028007",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "24028007"
+                            },
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    190,
+                                    250,
+                                    215
+                                ],
+                                "CodeMeaning": "Left",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "left Clavicle",
+                                "3dSlicerIntegerLabel": 206,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205091",
+                                "CodeValue": "7771000",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "7771000"
+                            }
+                        ]
+                    },
+                    {
+                        "recommendedDisplayRGBValue": [
+                            255,
+                            255,
+                            255
+                        ],
+                        "CodeMeaning": "Humerus",
+                        "CodingSchemeDesignator": "UBERON",
+                        "3dSlicerLabel": "Humerus",
+                        "3dSlicerIntegerLabel": 207,
+                        "CodeValue": "100053",
+                        "contextGroupName": "CommonTissueSegmentationTypes",
+                        "paired": "Y",
+                        "Modifier": [
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    255,
+                                    255,
+                                    255
+                                ],
+                                "CodeMeaning": "Right",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "right Humerus",
+                                "3dSlicerIntegerLabel": 208,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205090",
+                                "CodeValue": "24028007",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "24028007"
+                            },
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    255,
+                                    255,
+                                    255
+                                ],
+                                "CodeMeaning": "Left",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "left Humerus",
+                                "3dSlicerIntegerLabel": 209,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205091",
+                                "CodeValue": "7771000",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "7771000"
+                            }
+                        ]
+                    },
+                    {
+                        "recommendedDisplayRGBValue": [
+                            224,
+                            189,
+                            144
+                        ],
+                        "CodeMeaning": "Radius",
+                        "CodingSchemeDesignator": "UBERON",
+                        "3dSlicerLabel": "Radius",
+                        "3dSlicerIntegerLabel": 210,
+                        "CodeValue": "100054",
+                        "contextGroupName": "CommonTissueSegmentationTypes",
+                        "paired": "Y",
+                        "Modifier": [
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    224,
+                                    189,
+                                    144
+                                ],
+                                "CodeMeaning": "Right",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "right Radius",
+                                "3dSlicerIntegerLabel": 211,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205090",
+                                "CodeValue": "24028007",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "24028007"
+                            },
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    224,
+                                    189,
+                                    144
+                                ],
+                                "CodeMeaning": "Left",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "left Radius",
+                                "3dSlicerIntegerLabel": 212,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205091",
+                                "CodeValue": "7771000",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "7771000"
+                            }
+                        ]
+                    },
+                    {
+                        "recommendedDisplayRGBValue": [
+                            211,
+                            218,
+                            115
+                        ],
+                        "CodeMeaning": "Ulna",
+                        "CodingSchemeDesignator": "UBERON",
+                        "3dSlicerLabel": "Ulna",
+                        "3dSlicerIntegerLabel": 213,
+                        "CodeValue": "100055",
+                        "contextGroupName": "CommonTissueSegmentationTypes",
+                        "paired": "Y",
+                        "Modifier": [
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    211,
+                                    218,
+                                    115
+                                ],
+                                "CodeMeaning": "Right",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "right Ulna",
+                                "3dSlicerIntegerLabel": 214,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205090",
+                                "CodeValue": "24028007",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "24028007"
+                            },
+                            {
+                                "recommendedDisplayRGBValue": [
+                                    211,
+                                    218,
+                                    115
+                                ],
+                                "CodeMeaning": "Left",
+                                "CodingSchemeDesignator": "SCT",
+                                "3dSlicerLabel": "left Ulna",
+                                "3dSlicerIntegerLabel": 215,
+                                "cid": "244",
+                                "UMLSConceptUID": "C0205091",
+                                "CodeValue": "7771000",
+                                "contextGroupName": "Laterality",
+                                "SNOMEDCTConceptID": "7771000"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
